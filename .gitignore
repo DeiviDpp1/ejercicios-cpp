@@ -1,0 +1,5 @@
+git rm --cached Maximo_cmn_div.cpp
+git rm --cached suma_arreglo1.cpp
+git rm --cached calculo_interes.cpp
+git push
+
